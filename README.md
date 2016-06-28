@@ -1,6 +1,10 @@
 adminLte
 ==================
 
+![alt tag](https://almsaeedstudio.com/adminlte2.png)
+
+AdminLte as a directive on angular
+
 ## Prerequisites
 1. Install [node and npm](http://www.nodejs.org)
 2. Install **Grunt** running `npm install -g grunt-cli` 
