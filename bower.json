@@ -1,0 +1,19 @@
+{
+  "name": "adminLte",
+  "version": "",
+  "dependencies": {
+    "angular": "",
+    "angular-animate": "",
+    "angular-cookies": "",
+    "angular-i18n": "",
+    "angular-resource": "",
+    "angular-route": "",
+    "angular-sanitize": "",
+    "angular-touch": "",
+    "angular-translate": "2.1.0",
+    "angular-ui-router": "0.2.10",
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.6.3"
+  },
+  "devDependencies": {}
+}
